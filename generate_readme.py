@@ -9,13 +9,15 @@ def generate_summary(root_dir):
             for month in sorted(os.listdir(year_path)):
                 month_path = os.path.join(year_path, month)
                 if os.path.isdir(month_path):
+                    output += f"  <details>\n  <summary>📂 {month}</summary>\n\n"
                     for subfolder in sorted(os.listdir(month_path)):
                         subfolder_path = os.path.join(month_path, subfolder)
                         if os.path.isdir(subfolder_path):
                             readme_path = os.path.join(subfolder_path, "README.md")
                             if os.path.exists(readme_path):
                                 title = subfolder.replace("_", " ")
-                                output += f"- [{title}]({year}/{month}/{subfolder}/README.md)\n"
+                                output += f"  - [{title}]({year}/{month}/{subfolder}/README.md)\n"
+                    output += "  \n  </details>\n"
             output += "\n</details>\n\n"
     return output
 
