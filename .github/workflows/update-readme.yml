@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt || true
+
+      - name: Run README generator
+        run: python generate_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "devnine-codes"
+          git config --global user.email "dev.nine0@github.com"
+          git add README.md
+          git commit -m "Auto-update README.md"
+          git push
