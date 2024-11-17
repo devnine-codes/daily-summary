@@ -35,6 +35,7 @@
   - [2024-11-14 도메인](2024/11/2024-11-14_도메인/README.md)
   - [2024-11-15 Kubernetes](2024/11/2024-11-15_Kubernetes/README.md)
   - [2024-11-16 RESTful api](2024/11/2024-11-16_RESTful_api/README.md)
+  - [2024-11-17 영어 공부](2024/11/2024-11-17_영어_공부/README.md)
   
   </details>
 
