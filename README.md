@@ -37,6 +37,7 @@
   - [2024-11-16 RESTful api](2024/11/2024-11-16_RESTful_api/README.md)
   - [2024-11-17 영어 공부](2024/11/2024-11-17_영어_공부/README.md)
   - [2024-11-18 Elasticsearch](2024/11/2024-11-18_Elasticsearch/README.md)
+  - [2024-11-19 자바 공화국](2024/11/2024-11-19_자바_공화국/README.md)
   
   </details>
 
