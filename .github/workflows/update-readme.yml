@@ -30,6 +30,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase || echo "No remote changes to rebase"
           git add README.md
-          git commit -m "Auto-update README.md"
-          git push
+          git commit -m "Auto-update README.md" || echo "No changes to commit"
+          git push origin main || git push --force origin main
