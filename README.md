@@ -43,6 +43,7 @@
   - [2024-11-22 JDK 버전별 차이점](2024/11/2024-11-22_JDK_버전별_차이점/README.md)
   - [2024-11-23 Maven과 Gradle](2024/11/2024-11-23_Maven과_Gradle/README.md)
   - [2024-11-24 Monolithic](2024/11/2024-11-24_Monolithic/README.md)
+  - [2024-11-25 요구사항 명세화](2024/11/2024-11-25_요구사항_명세화/README.md)
   
   </details>
 
