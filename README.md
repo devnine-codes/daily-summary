@@ -45,6 +45,7 @@
   - [2024-11-24 Monolithic](2024/11/2024-11-24_Monolithic/README.md)
   - [2024-11-25 요구사항 명세화](2024/11/2024-11-25_요구사항_명세화/README.md)
   - [2024-11-26 원서를 읽다 1(Wonder)](2024/11/2024-11-26_원서를_읽다_1(Wonder)/README.md)
+  - [2024-11-27 MyBatis To JPA](2024/11/2024-11-27_MyBatis_To_JPA/README.md)
   
   </details>
 
