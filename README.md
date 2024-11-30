@@ -48,6 +48,7 @@
   - [2024-11-27 MyBatis To JPA](2024/11/2024-11-27_MyBatis_To_JPA/README.md)
   - [2024-11-28 데이터 모델링](2024/11/2024-11-28_데이터_모델링/README.md)
   - [2024-11-29 친구와 한잔](2024/11/2024-11-29_친구와_한잔/README.md)
+  - [2024-11-30 Sequence Diagram](2024/11/2024-11-30_Sequence_Diagram/README.md)
   
   </details>
 
