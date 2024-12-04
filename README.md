@@ -57,6 +57,7 @@
   - [2024-12-01 TDD](2024/12/2024-12-01_TDD/README.md)
   - [2024-12-02 Spring Security](2024/12/2024-12-02_Spring_Security/README.md)
   - [2024-12-03 Spring Batch](2024/12/2024-12-03_Spring_Batch/README.md)
+  - [2024-12-04 Spring LDAP](2024/12/2024-12-04_Spring_LDAP/README.md)
   
   </details>
 
