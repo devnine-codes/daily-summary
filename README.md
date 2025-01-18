@@ -83,6 +83,7 @@
 
   - [Struts To Spring Boot Conversion](2025/note/Struts_To_Spring_Boot_Conversion/README.md)
   - [개발자로서의 카리스마](2025/note/개발자로서의_카리스마/README.md)
+  - [올해 목표 자격증](2025/note/올해_목표_자격증/README.md)
   - [폐쇄망 환경](2025/note/폐쇄망_환경/README.md)
   
   </details>
